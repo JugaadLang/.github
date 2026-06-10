@@ -4,6 +4,20 @@
 <p align="center">
   <img src="https://github.com/JugaadLang/jugaadlang/blob/main/website/assets/icon.png" width="180" alt="JugaadLang Logo">
 </p>
+
+<div align="center">
+
+ 
+ <a href="https://www.producthunt.com/products/jugaadlang-code-karo-hindi-mein?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-jugaadlang-code-karo-hindi-mein" target="_blank" rel="noopener noreferrer"><img alt="JugaadLang — Code karo Hindi mein  - Code karo Hindi mein, Duniya hila do 🇮🇳 | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1168029&amp;theme=light&amp;t=1781108995735"></a>
+
+
+![Windows](https://img.shields.io/badge/Windows-Supported-blue)
+![Linux](https://img.shields.io/badge/Linux-Supported-green)
+![macOS](https://img.shields.io/badge/macOS-Supported-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red)
+
+</div>
 <div align="center">
 
 # Code karo Hindi mein, Logic socho apne style mein. 🚀
