@@ -18,6 +18,220 @@
 
 ---
 
+
+
+# 📥 Install JugaadLang
+
+Get started with JugaadLang in just a few minutes.
+
+## Requirements
+
+Before installing JugaadLang, make sure you have:
+
+* Python 3.10 or later
+* pip package manager
+
+Check your Python version:
+
+```bash
+python --version
+```
+
+or
+
+```bash
+python3 --version
+```
+
+---
+
+# 🪟 Windows
+
+### Install
+
+```powershell
+pip install jugaadlang
+```
+
+### Verify Installation
+
+```powershell
+jug --version
+```
+
+Expected output:
+
+```text
+JugaadLang v1.0.2 🇮🇳
+
+```
+
+### Run Your First Program
+
+Create a file named `hello.jug`
+
+```jugaad
+bolo("Namaste Duniya 🚀")
+```
+
+Run it:
+
+```powershell
+jug run hello.jg
+```
+
+Output:
+
+```text
+Namaste Duniya 🚀
+```
+
+---
+
+# 🐧 Linux
+
+### Install
+
+```bash
+pip3 install jugaadlang
+```
+
+### Verify Installation
+
+```bash
+jugaad --version
+```
+
+### Run
+
+```bash
+jug run hello.jg
+```
+
+---
+
+# 🍎 macOS
+
+### Install
+
+```bash
+pip3 install jugaadlang
+```
+
+### Verify Installation
+
+```bash
+jug --version
+```
+
+### Run
+
+```bash
+jug run hello.jg
+```
+
+---
+
+# 🚀 Install Latest Development Version
+
+Install directly from GitHub:
+
+```bash
+pip install git+https://github.com/JugaadLang/jugaadlang.git
+```
+
+Verify:
+
+```bash
+jug --version
+```
+
+---
+
+# 📦 Package Manager
+
+JugaadLang includes a built-in package manager.
+
+### Install Package
+
+```bash
+jug install chai
+```
+
+### Search Package
+
+```bash
+jug search chai
+```
+
+### Update Packages
+
+```bash
+jug update
+```
+
+### Remove Package
+
+```bash
+jug remove chai
+```
+
+---
+
+# ⚡ Interactive REPL
+
+Start the JugaadLang shell:
+
+```bash
+jug
+```
+
+Example:
+
+```text
+>>> bolo("Namaste")
+Namaste
+```
+
+---
+
+# 🔧 Common Commands
+
+| Command                | Description           |
+| ---------------------- | --------------------- |
+| `jug run file.jg`   | Run a program         |
+| `jug build file.jg` | Build project         |
+| `jug repl`          | Open REPL             |
+| `jug install pkg`   | Install package       |
+| `jug update`        | Update packages       |
+| `jug search pkg`    | Search package        |
+| `jug remove pkg`    | Remove package        |
+| `jug doctor`        | Diagnose installation |
+| `jug --version`     | Show version          |
+| `jug --help`        | Show help             |
+
+---
+
+# 🎉 Success
+
+You're now ready to write JugaadLang programs.
+
+```jugaad
+naam = "Bharat"
+
+bolo("Namaste " + naam)
+```
+
+Output:
+
+```text
+Namaste Bharat
+```
+
+Happy Coding! 🇮🇳🚀
+
+
+
 ## 🌟 What is JugaadLang?
 
 JugaadLang is a modern programming language that lets developers write code using Hindi-inspired keywords written in English (Roman Hindi).
