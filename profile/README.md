@@ -1,35 +1,82 @@
 <h1 align="center">
-JugaadLang 🇮🇳
-<h1/>
-
+ 🇮🇳 JugaadLang
+</h1>
 <p align="center">
   <img src="https://github.com/JugaadLang/jugaadlang/blob/main/website/assets/icon.png" width="180" alt="JugaadLang Logo">
 </p>
+<div align="center">
 
-<h3 align="center">
-Code Karo Hindi Mein, Duniya Hila Do! 🚀
-</h3>
+# Code karo Hindi mein, Logic socho apne style mein. 🚀
 
-<p align="center">
-A modern, beginner-friendly programming language inspired by Python, built for Indian developers.
-</p>
+**A Fun, Modern & Beginner-Friendly Programming Language Inspired by Python**
+
+🌐 Website: https://jugaadlang.netlify.app/
+
+⭐ Open Source • 📚 Educational • 🚀 Fast • 😄 Fun
+
+</div>
 
 ---
 
 ## 🌟 What is JugaadLang?
 
-JugaadLang is a fun, powerful, and educational programming language that lets you write code using familiar Hindi-inspired keywords written in English (Roman Hindi).
+JugaadLang is a modern programming language that lets developers write code using Hindi-inspired keywords written in English (Roman Hindi).
 
-Designed for beginners, students, and curious developers, JugaadLang makes programming feel more natural while keeping the power and simplicity of Python.
+Built for students, beginners, and curious developers, JugaadLang makes programming easier to understand while retaining Python's simplicity and power.
 
-```jugaad
-shuru
+Instead of writing:
 
+```python
+print("Hello World")
+```
+
+You can write:
+
+```python
+bolo("Hello World")
+```
+
+Simple. Familiar. Fun.
+
+---
+
+## ✨ Features
+
+* 🇮🇳 Hindi-inspired syntax
+* 🐍 Python-powered execution
+* ⚡ Fast transpilation
+* 😄 Funny & friendly error messages
+* 📦 Built-in package manager (`jug`)
+* 🎨 VS Code extension support
+* 🌐 Cross-platform support
+* 📚 Beginner-friendly documentation
+* 🔧 Standard library included
+* 🚀 Open Source
+* 🧪 Interactive playground
+* ❤️ Made for learners
+
+---
+
+## 🚀 Quick Start
+
+### Hello World
+
+```python
+bolo("Namaste Duniya")
+```
+
+Output:
+
+```text
+Namaste Duniya
+```
+
+### Variables
+
+```python
 naam = "Bharat"
 
 bolo("Namaste " + naam)
-
-khatam
 ```
 
 Output:
@@ -40,50 +87,11 @@ Namaste Bharat
 
 ---
 
-## ✨ Features
+## 🛠 Functions
 
-* 🇮🇳 Hindi-inspired syntax
-* 🐍 Python-powered execution
-* 😄 Funny and friendly error messages
-* 📦 Built-in package manager (`jugaad`)
-* ⚡ Fast transpilation to Python AST
-* 🎨 VS Code Extension
-* 🌐 Cross-platform support
-* 📚 Beginner-friendly documentation
-* 🔧 Standard Library Included
-* 🚀 Open Source
-
----
-
-## 🤔 Why JugaadLang?
-
-Programming shouldn't feel scary.
-
-JugaadLang helps new developers learn programming concepts without getting overwhelmed by complicated syntax.
-
-Inspired by community projects such as Hindi and regional-language programming experiments, JugaadLang aims to make coding more approachable and fun.
-
----
-
-## 📦 Ecosystem
-
-| Tool                   | Description          |
-| ---------------------- | -------------------- |
-| JugaadLang Compiler    | Core Language        |
-| Jugaad Package Manager | Package Installation |
-| VS Code Extension      | Syntax Highlighting  |
-| Playground             | Online Code Runner   |
-| Standard Library       | Batteries Included   |
-| Documentation          | Learn JugaadLang     |
-
----
-
-## 🛠 Example
-
-```jugaad
-kaam swagat(naam)
+```python
+banao swagat(naam)
     wapas "Namaste " + naam
-bas
 
 bolo(swagat("Duniya"))
 ```
@@ -96,30 +104,281 @@ Namaste Duniya
 
 ---
 
+## 🔁 Conditions
+
+```python
+umar = 18
+
+agar umar >= 18
+    bolo("Vote de sakte ho")
+warna
+    bolo("Abhi chhote ho")
+```
+
+---
+
+## 🔄 Loops
+
+### For Loop
+
+```python
+ghumo i mein range(5)
+    bolo(i)
+```
+
+### While Loop
+
+```python
+ginti = 1
+
+jabtak ginti <= 5
+    bolo(ginti)
+    ginti = ginti + 1
+```
+
+---
+
+## 📖 Language Keywords Reference
+
+| Python     | JugaadLang       | Meaning        |
+| ---------- | ---------------- | -------------- |
+| `print`    | `bolo`           | Say / Speak    |
+| `input`    | `poochho`        | Ask            |
+| `if`       | `agar`           | If             |
+| `elif`     | `shayad`         | Maybe          |
+| `else`     | `warna`          | Otherwise      |
+| `for`      | `ghumo`          | Iterate        |
+| `while`    | `jabtak`         | As Long As     |
+| `def`      | `banao`          | Create         |
+| `return`   | `wapas`          | Return         |
+| `class`    | `ustad`          | Teacher        |
+| `self`     | `khud`           | Self           |
+| `import`   | `lao`            | Bring          |
+| `from`     | `se`             | From           |
+| `break`    | `rukja`          | Stop           |
+| `continue` | `chalte_raho`    | Keep Going     |
+| `try`      | `koshish`        | Try            |
+| `except`   | `gadbad`         | Exception      |
+| `finally`  | `aakhir_me`      | Finally        |
+| `raise`    | `udao`           | Raise          |
+| `True`     | `sahi`           | True           |
+| `False`    | `galat`          | False          |
+| `None`     | `kuch_nahi`      | None           |
+| `and`      | `aur`            | And            |
+| `or`       | `ya`             | Or             |
+| `not`      | `nahi`           | Not            |
+| `async`    | `tez`            | Async          |
+| `await`    | `intezaar`       | Await          |
+| `yield`    | `baanto`         | Yield          |
+| `pass`     | `theek_hai`      | Pass           |
+| `global`   | `sabka`          | Global         |
+| `lambda`   | `chota_funkshan` | Small Function |
+| `in`       | `mein`           | In             |
+| `is`       | `hai`            | Is             |
+| `match`    | `agar_match`     | Pattern Match  |
+| `case`     | `kaand`          | Match Case     |
+
+---
+
+## 🔥 Python vs JugaadLang
+
+### Python
+
+```python
+def greet(name):
+    return f"Namaste {name}"
+
+print(greet("Bharat"))
+```
+
+### JugaadLang
+
+```python
+banao greet(naam)
+    wapas "Namaste " + naam
+
+bolo(greet("Bharat"))
+```
+
+Output:
+
+```text
+Namaste Bharat
+```
+
+---
+
+## 😄 Funny Error Messages
+
+Instead of boring errors:
+
+```text
+SyntaxError: invalid syntax
+```
+
+JugaadLang says:
+
+```text
+Arre Bhai! Yeh kya likh diya? 🤦
+
+Line 5 pe kuch gadbad lag rahi hai.
+Thoda dhyan se dekh lo.
+```
+
+Learning should be fun.
+
+---
+
+## 📦 Package Manager
+
+Install packages using the built-in package manager:
+
+```bash
+jug install pandas
+```
+
+```bash
+jug install numpy
+```
+
+```bash
+jug update
+```
+
+```bash
+jug remove pandas
+```
+
+---
+
+## 🧰 Standard Library
+
+Built-in modules include:
+
+* File Handling
+* JSON Utilities
+* HTTP Requests
+* Math Functions
+* Date & Time
+* Random Utilities
+* CLI Tools
+* String Utilities
+
+---
+
+## 🏗 Ecosystem
+
+| Project                | Description         |
+| ---------------------- | ------------------- |
+| JugaadLang Compiler    | Core language       |
+| Jugaad Package Manager | Package management  |
+| VS Code Extension      | Editor support      |
+| Playground             | Online execution    |
+| Documentation          | Learn JugaadLang    |
+| Standard Library       | Built-in modules    |
+| CLI Tools              | Developer utilities |
+
+---
+
+## 🎯 Vision
+
+Our mission is to make programming:
+
+* Easier
+* More accessible
+* More fun
+* More relatable
+
+JugaadLang aims to become India's most beginner-friendly programming language.
+
+---
+
+## 📚 Documentation
+
+Visit the official documentation:
+
+https://jugaadlang.netlify.app
+
+Learn:
+
+* Installation
+* Language Basics
+* Functions
+* Classes
+* Modules
+* Package Manager
+* Standard Library
+* Advanced Features
+
+
+
+## 🎨 VS Code Extension
+
+Features:
+
+* Syntax Highlighting
+* Auto Completion
+* Error Detection
+* Snippets
+* Theme Support
+
+Perfect for productive development.
+
+---
+
 ## 🤝 Contributing
 
-We welcome:
+We welcome contributions from everyone.
 
-* Language Improvements
-* Compiler Contributions
-* Documentation Fixes
-* VS Code Extension Features
-* New Standard Library Modules
-* Community Ideas
+Ways to contribute:
+
+* Compiler improvements
+* Documentation updates
+* VS Code extension features
+* Bug fixes
+* Standard library modules
+* Playground enhancements
+* New ideas & suggestions
+
+### Development Setup
+
+```bash
+git clone https://github.com/JugaadLang/jugaadlang
+
+cd jugaadlang
+
+uv install
+uv  build
+```
 
 ---
 
 ## 🌍 Community
 
-Join us and help build India's most fun programming language.
+Become part of the JugaadLang movement.
 
 ⭐ Star the repositories
 
-🍴 Fork and contribute
+🍴 Fork the project
 
 🐛 Report bugs
 
 💡 Suggest features
+
+🚀 Help build the future of Hindi-inspired programming
+
+---
+
+## 🔗 Links
+
+### Official Website
+
+https://jugaadlang.netlify.app/
+
+
+### GitHub Organization
+
+https://github.com/JugaadLang
 
 ---
 
@@ -129,6 +388,10 @@ Join us and help build India's most fun programming language.
 
 ---
 
-<p align="center">
+<div align="center">
+
 Made with ❤️ by the JugaadLang Community
-</p>
+
+🇮🇳 Proudly Built for Developers
+
+</div>
