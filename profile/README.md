@@ -1,7 +1,9 @@
-# JugaadLang 🇮🇳
+<h1 align="center">
+JugaadLang 🇮🇳
+<h1/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JugaadLang/assets/main/logo.png" width="180" alt="JugaadLang Logo">
+  <img src="https://github.com/JugaadLang/jugaadlang/blob/main/website/assets/icon.png" width="180" alt="JugaadLang Logo">
 </p>
 
 <h3 align="center">
